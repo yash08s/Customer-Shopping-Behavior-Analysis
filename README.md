@@ -116,21 +116,4 @@ The analysis is used to identify patterns such as:
 
 The detailed findings are available through the SQL analysis and Power BI dashboard.
 
-## Project Structure
 
-```text
-Customer-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── customer_behavior_analysis.ipynb
-│
-├── sql/
-│   └── customer_behavior_analysis.sql
-│
-├── powerbi/
-│   └── customer_behavior_dashboard.pbix
-│
-└── README.md
