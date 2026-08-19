@@ -98,7 +98,7 @@ The dashboard includes:
 
 Power BI file:
 
-[Customer Behavior Dashboard](./powerbi/customer_behavior_dashboard.pbix)
+[Customer Behavior Dashboard](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/customer_behavior_dashboard%20(1).pbix)
 
 ## Key Insights
 
