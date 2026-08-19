@@ -102,15 +102,18 @@ Power BI file:
 
 ## Key Insights
 
-The analysis is used to identify patterns such as:
+The analysis focuses on identifying patterns in customer purchasing behavior, product performance, and customer loyalty.
 
-- Which customer groups purchase more frequently
-- Which product categories are most popular
-- How discounts influence purchasing behavior
-- Which payment methods customers prefer
-- Differences in shopping behavior across demographics
-- Patterns associated with repeat purchases and customer loyalty
+* Revenue contribution across different customer demographics
+* Top-performing products based on purchase volume and review ratings
+* Spending differences between subscribers and non-subscribers
+* The relationship between discounts and customer spending
+* Products with the highest percentage of discounted purchases
+* Customer segmentation based on previous purchase history
+* Repeat buyers and their subscription behavior
+* Revenue contribution across different age groups
+* Differences in spending based on shipping type
 
-The detailed findings are available through the SQL analysis and Power BI dashboard.
+The detailed findings are presented through the SQL analysis and Power BI dashboard.
 
 
