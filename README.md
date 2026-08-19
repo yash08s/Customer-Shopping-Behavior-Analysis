@@ -22,44 +22,43 @@ The goal is to turn the raw customer data into useful insights that can help imp
 
 ## Dataset
 
-The dataset contains customer-level shopping information such as:
+The dataset contains customer-level shopping information covering customer demographics, products, purchases, and shopping behavior.
 
-- Customer demographics
-- Product categories
-- Purchase amounts
-- Discounts
-- Review ratings
-- Payment methods
-- Purchase frequency
-- Shopping preferences
+The main information available includes:
+
+* Customer demographics such as age, gender, and location
+* Product details including item, category, size, color, and season
+* Purchase amount and payment method
+* Shipping type and purchase frequency
+* Previous purchase history
+* Review ratings
+* Subscription status
+* Discount and promo code usage
 
 The raw dataset is included in the repository:
 
-- [Customer Shopping Behavior Dataset](./data/customer_shopping_behavior.csv)
+* [Customer Shopping Behavior Dataset](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/data/customer_shopping_behavior.csv)
 
 ## Python Analysis
 
-Python was used to clean and prepare the dataset before performing the SQL analysis.
+Python was used to explore, clean, and prepare the dataset before performing the SQL analysis.
 
 The notebook covers:
 
-- Loading and exploring the dataset
-- Checking missing and duplicate values
-- Cleaning and transforming columns
-- Understanding customer and product patterns
-- Exploratory data analysis
-- Preparing the final dataset for SQL
+* Loading and understanding the dataset
+* Checking for missing and duplicate values
+* Cleaning and transforming the data
+* Exploring customer and product characteristics
+* Analyzing purchase and spending patterns
+* Preparing the cleaned dataset for SQL analysis
 
 ### Python Libraries
 
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+* Pandas
 
 Notebook:
 
-[Customer Behavior Analysis](./notebooks/customer_behavior_analysis.ipynb)
+[Customer Behavior Analysis](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/notebooks/customer_behavior_analysis.ipynb)
 
 ## SQL Analysis
 
