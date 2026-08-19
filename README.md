@@ -73,7 +73,7 @@ After cleaning the data, I used SQL to explore customer purchasing behavior, pro
 | Top 5 products by average review rating              | [Q3](./sql/customer_behavior_analysis.sql)  |
 | Average purchase amount by shipping type             | [Q4](./sql/customer_behavior_analysis.sql)  |
 | Subscriber vs. non-subscriber spending               | [Q5](./sql/customer_behavior_analysis.sql)  |
-| Products with the highest discount rate              | [Q6](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/customer_behavior_sql_queries.sql)  |
+| Products with the highest discount rate              | [Q6](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/customer_behavior_sql_queries.sqlL38-L44)  |
 | Customer segmentation based on previous purchases    | [Q7](./sql/customer_behavior_analysis.sql)  |
 | Top 3 most purchased products in each category       | [Q8](./sql/customer_behavior_analysis.sql)  |
 | Repeat buyers and their subscription status          | [Q9](./sql/customer_behavior_analysis.sql)  |
