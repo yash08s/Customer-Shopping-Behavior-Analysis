@@ -37,7 +37,7 @@ The main information available includes:
 
 The raw dataset is included in the repository:
 
-* [Customer Shopping Behavior Dataset](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/data/customer_shopping_behavior.csv)
+* [Customer Shopping Behavior Dataset](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/customer_shopping_behavior.csv)
 
 ## Python Analysis
 
@@ -58,7 +58,7 @@ The notebook covers:
 
 Notebook:
 
-[Customer Behavior Analysis](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/notebooks/customer_behavior_analysis.ipynb)
+[Customer Behavior Analysis](https://github.com/yash08s/Customer-Shopping-Behavior-Analysis/blob/main/Customer_Shopping_Behavior_Analysis.ipynb)
 
 ## SQL Analysis
 
